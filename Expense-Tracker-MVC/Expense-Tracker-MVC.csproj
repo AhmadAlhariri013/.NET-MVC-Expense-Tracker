@@ -18,4 +18,9 @@
       <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="27.2.4" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Home\Index.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Home\Privacy.cshtml" />
+    </ItemGroup>
+
 </Project>
